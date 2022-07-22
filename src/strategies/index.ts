@@ -303,6 +303,7 @@ import * as starcatchersTopWindow from './starcatchers-top-window';
 import * as gno from './gno';
 import * as umaVoting from './uma-voting';
 import * as masterchefPoolBalanceNoRewarddebt from './masterchef-pool-balance-no-rewarddebt';
+import * as propHouseSpace from './prop-house-space';
 import * as proofOfHumanity from './proof-of-humanity';
 import * as samuraiLegendsGeneralsBalance from './samurailegends-generals-balance';
 import * as dogsUnchained from './dogs-unchained';
@@ -639,6 +640,7 @@ const strategies = {
   'gno-vote-weight': gno,
   'uma-voting': umaVoting,
   'masterchef-pool-balance-no-rewarddebt': masterchefPoolBalanceNoRewarddebt,
+  'prop-house-space': propHouseSpace,
   'proof-of-humanity': proofOfHumanity,
   'sybil-protection': sybilProtection,
   'samurailegends-generals-balance': samuraiLegendsGeneralsBalance,
